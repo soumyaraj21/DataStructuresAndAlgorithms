@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
