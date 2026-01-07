@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
