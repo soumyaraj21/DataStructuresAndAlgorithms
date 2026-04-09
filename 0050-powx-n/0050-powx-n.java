@@ -1,21 +1,21 @@
 class Solution {
     public double myPow(double x, int n) {
-        long exp = n;
-        if (exp < 0) {
+        long N = n;
+        if (N < 0) {
             x = 1 / x;
-            exp = -exp;
+            N = -N;
         }
-
-        double result = 1.0;
-
-        while (exp > 0) {
-            if ((exp & 1) == 1)
-                result *= x;
-
-            x *= x;
-            exp >>= 1;
+        return power(x, N);
+    }
+    private double power(double x, long n) {
+        if (n == 0) {
+            return 1;
         }
-
-        return result;
+        double call = power(x, n / 2);
+        if (n % 2 == 0) {
+            return call * call;
+        } else {
+            return x * call * call;
+        }
     }
 }
