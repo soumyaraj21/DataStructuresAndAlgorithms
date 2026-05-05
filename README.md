@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0088-merge-sorted-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0216-combination-sum-iii) |
