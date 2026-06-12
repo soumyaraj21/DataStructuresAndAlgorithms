@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0136-single-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0410-split-array-largest-sum) |
