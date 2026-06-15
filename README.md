@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0704-binary-search) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
