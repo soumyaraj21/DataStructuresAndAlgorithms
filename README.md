@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0213-house-robber-ii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
