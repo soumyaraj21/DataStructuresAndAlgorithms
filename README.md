@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0875-koko-eating-bananas) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1048-longest-string-chain) |
 ## Simulation
 |  |
@@ -428,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
