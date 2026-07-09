@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0704-binary-search) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1048-longest-string-chain) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0994-rotting-oranges) |
 ## Math
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0207-course-schedule](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0733-flood-fill) |
