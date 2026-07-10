@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1341-movie-rating) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1667-fix-names-in-a-table](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
