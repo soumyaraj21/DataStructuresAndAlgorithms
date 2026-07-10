@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0216-combination-sum-iii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0994-rotting-oranges) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0542-01-matrix) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1020-number-of-enclaves) |
