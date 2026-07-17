@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0802-find-eventual-safe-states) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0802-find-eventual-safe-states) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0802-find-eventual-safe-states) |
@@ -596,5 +600,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
