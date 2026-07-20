@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0994-rotting-oranges) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1020-number-of-enclaves) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0802-find-eventual-safe-states) |
@@ -543,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0802-find-eventual-safe-states) |
@@ -588,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
