@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0053-maximum-subarray) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0062-unique-paths) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0410-split-array-largest-sum) |
