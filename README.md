@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0518-coin-change-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0516-longest-palindromic-subsequence) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1903-largest-odd-number-in-string) |
