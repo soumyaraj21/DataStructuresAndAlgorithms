@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1021-remove-outermost-parentheses) |
@@ -660,4 +662,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
