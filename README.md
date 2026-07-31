@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1020-number-of-enclaves) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
