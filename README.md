@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1048-longest-string-chain) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
 | ------- |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
