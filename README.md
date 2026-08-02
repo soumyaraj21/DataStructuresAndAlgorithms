@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0994-rotting-oranges) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1048-longest-string-chain) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1922-count-good-numbers) |
@@ -701,4 +704,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
