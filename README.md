@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1048-longest-string-chain) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
