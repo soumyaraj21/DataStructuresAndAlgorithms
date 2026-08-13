@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3731-find-missing-elements) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1903-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -772,4 +775,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
