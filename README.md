@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1048-longest-string-chain) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0455-assign-cookies) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0621-task-scheduler) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
@@ -774,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Ordered Set
 |  |
