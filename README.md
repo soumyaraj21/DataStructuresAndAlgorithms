@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2029-stone-game-ix) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1563-stone-game-v](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1563-stone-game-v) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1563-stone-game-v](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2029-stone-game-ix) |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2029-stone-game-ix) |
 ## Tournament Sort
 |  |
