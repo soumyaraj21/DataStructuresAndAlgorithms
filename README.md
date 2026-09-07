@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0295-find-median-from-data-stream) |
+| [0443-string-compression](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1048-longest-string-chain) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0940-distinct-subsequences-ii) |
