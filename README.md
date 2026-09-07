@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0877-stone-game) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
