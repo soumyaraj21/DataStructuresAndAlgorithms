@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Indexed Tree
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2360-longest-cycle-in-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -843,4 +847,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2029-stone-game-ix) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
