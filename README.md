@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
