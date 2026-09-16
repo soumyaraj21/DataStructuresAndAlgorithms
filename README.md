@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1563-stone-game-v](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2029-stone-game-ix) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Tree
 |  |
 | ------- |
