@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Trie
