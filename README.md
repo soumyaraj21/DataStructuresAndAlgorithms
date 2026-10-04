@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0940-distinct-subsequences-ii) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1048-longest-string-chain) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1096-brace-expansion-ii) |
@@ -930,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
