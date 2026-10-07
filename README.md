@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0547-number-of-provinces) |
