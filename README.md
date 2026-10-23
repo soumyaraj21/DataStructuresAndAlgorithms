@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3886-sum-of-sortable-integers) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
