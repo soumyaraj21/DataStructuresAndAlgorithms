@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3731-find-missing-elements) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2360-longest-cycle-in-a-graph](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -888,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
