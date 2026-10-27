@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3903-smallest-stable-index-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
