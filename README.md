@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0151-reverse-words-in-a-string) |
