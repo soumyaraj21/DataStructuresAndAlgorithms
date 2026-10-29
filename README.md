@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0416-partition-equal-subset-sum) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0416-partition-equal-subset-sum) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1042,4 +1045,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
