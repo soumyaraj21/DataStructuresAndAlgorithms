@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0496-next-greater-element-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0877-stone-game) |
