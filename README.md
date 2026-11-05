@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1539-kth-missing-positive-number) |
