@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1192-critical-connections-in-a-network) |
+| [1267-count-servers-that-communicate](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
@@ -885,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2360-longest-cycle-in-a-graph) |
@@ -941,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1631-path-with-minimum-effort) |
