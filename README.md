@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0204-count-primes) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0136-single-number) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/soumyaraj21/DataStructuresAndAlgorithms/tree/master/0079-word-search) |
